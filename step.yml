@@ -8,8 +8,7 @@ description: |-
 
   # Warning!
 
-  It will perform a one-direction sync, removing every file and folder from
-  the bucket which is not present in the local, input folder!
+  This version does not remove files from te bucket
 website: https://github.com/bitrise-io/steps-amazon-s3-upload
 source_code_url: https://github.com/bitrise-io/steps-amazon-s3-upload
 support_url: https://github.com/bitrise-io/steps-amazon-s3-upload/issues
